@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "ytdl-core": "^4.9.1"
+  }
+}
